@@ -1,0 +1,14 @@
+/Users/dacq/code/ue_csharp/vars/bin/Debug/net8.0/vars
+/Users/dacq/code/ue_csharp/vars/bin/Debug/net8.0/vars.deps.json
+/Users/dacq/code/ue_csharp/vars/bin/Debug/net8.0/vars.runtimeconfig.json
+/Users/dacq/code/ue_csharp/vars/bin/Debug/net8.0/vars.dll
+/Users/dacq/code/ue_csharp/vars/bin/Debug/net8.0/vars.pdb
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.dll
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/refint/vars.dll
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.pdb
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/vars.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/vars/obj/Debug/net8.0/ref/vars.dll
