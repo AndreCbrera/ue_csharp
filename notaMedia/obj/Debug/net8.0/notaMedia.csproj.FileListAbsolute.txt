@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/notaMedia/bin/Debug/net8.0/notaMedia
+/Users/dacq/code/ue_csharp/notaMedia/bin/Debug/net8.0/notaMedia.deps.json
+/Users/dacq/code/ue_csharp/notaMedia/bin/Debug/net8.0/notaMedia.runtimeconfig.json
+/Users/dacq/code/ue_csharp/notaMedia/bin/Debug/net8.0/notaMedia.dll
+/Users/dacq/code/ue_csharp/notaMedia/bin/Debug/net8.0/notaMedia.pdb
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.sourcelink.json
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.dll
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/refint/notaMedia.dll
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.pdb
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/notaMedia.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/notaMedia/obj/Debug/net8.0/ref/notaMedia.dll
