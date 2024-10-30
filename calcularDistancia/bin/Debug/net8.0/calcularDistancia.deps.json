@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "calcularDistancia/1.0.0": {
+        "runtime": {
+          "calcularDistancia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcularDistancia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

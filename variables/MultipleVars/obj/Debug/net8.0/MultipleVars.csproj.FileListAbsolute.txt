@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.sourcelink.json
+/Users/dacq/code/ue_csharp/variables/MultipleVars/bin/Debug/net8.0/MultipleVars
+/Users/dacq/code/ue_csharp/variables/MultipleVars/bin/Debug/net8.0/MultipleVars.deps.json
+/Users/dacq/code/ue_csharp/variables/MultipleVars/bin/Debug/net8.0/MultipleVars.runtimeconfig.json
+/Users/dacq/code/ue_csharp/variables/MultipleVars/bin/Debug/net8.0/MultipleVars.dll
+/Users/dacq/code/ue_csharp/variables/MultipleVars/bin/Debug/net8.0/MultipleVars.pdb
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.dll
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/refint/MultipleVars.dll
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.pdb
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/MultipleVars.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/variables/MultipleVars/obj/Debug/net8.0/ref/MultipleVars.dll

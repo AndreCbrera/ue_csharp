@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.sourcelink.json
+/Users/dacq/code/ue_csharp/variables/DisplayVars/bin/Debug/net8.0/DisplayVars
+/Users/dacq/code/ue_csharp/variables/DisplayVars/bin/Debug/net8.0/DisplayVars.deps.json
+/Users/dacq/code/ue_csharp/variables/DisplayVars/bin/Debug/net8.0/DisplayVars.runtimeconfig.json
+/Users/dacq/code/ue_csharp/variables/DisplayVars/bin/Debug/net8.0/DisplayVars.dll
+/Users/dacq/code/ue_csharp/variables/DisplayVars/bin/Debug/net8.0/DisplayVars.pdb
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.dll
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/refint/DisplayVars.dll
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.pdb
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/DisplayVars.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/variables/DisplayVars/obj/Debug/net8.0/ref/DisplayVars.dll

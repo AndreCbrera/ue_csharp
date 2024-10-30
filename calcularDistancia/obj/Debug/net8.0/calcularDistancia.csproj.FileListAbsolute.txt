@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.sourcelink.json
+/Users/dacq/code/ue_csharp/calcularDistancia/bin/Debug/net8.0/calcularDistancia
+/Users/dacq/code/ue_csharp/calcularDistancia/bin/Debug/net8.0/calcularDistancia.deps.json
+/Users/dacq/code/ue_csharp/calcularDistancia/bin/Debug/net8.0/calcularDistancia.runtimeconfig.json
+/Users/dacq/code/ue_csharp/calcularDistancia/bin/Debug/net8.0/calcularDistancia.dll
+/Users/dacq/code/ue_csharp/calcularDistancia/bin/Debug/net8.0/calcularDistancia.pdb
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.dll
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/refint/calcularDistancia.dll
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.pdb
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/calcularDistancia.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/calcularDistancia/obj/Debug/net8.0/ref/calcularDistancia.dll
