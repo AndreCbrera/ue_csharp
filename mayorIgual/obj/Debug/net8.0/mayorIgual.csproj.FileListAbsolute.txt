@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.sourcelink.json
+/Users/dacq/code/ue_csharp/mayorIgual/bin/Debug/net8.0/mayorIgual
+/Users/dacq/code/ue_csharp/mayorIgual/bin/Debug/net8.0/mayorIgual.deps.json
+/Users/dacq/code/ue_csharp/mayorIgual/bin/Debug/net8.0/mayorIgual.runtimeconfig.json
+/Users/dacq/code/ue_csharp/mayorIgual/bin/Debug/net8.0/mayorIgual.dll
+/Users/dacq/code/ue_csharp/mayorIgual/bin/Debug/net8.0/mayorIgual.pdb
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.dll
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/refint/mayorIgual.dll
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.pdb
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/mayorIgual.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/mayorIgual/obj/Debug/net8.0/ref/mayorIgual.dll

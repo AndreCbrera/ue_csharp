@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/perimetroTriangulo/bin/Debug/net8.0/perimetroTriangulo
+/Users/dacq/code/ue_csharp/perimetroTriangulo/bin/Debug/net8.0/perimetroTriangulo.deps.json
+/Users/dacq/code/ue_csharp/perimetroTriangulo/bin/Debug/net8.0/perimetroTriangulo.runtimeconfig.json
+/Users/dacq/code/ue_csharp/perimetroTriangulo/bin/Debug/net8.0/perimetroTriangulo.dll
+/Users/dacq/code/ue_csharp/perimetroTriangulo/bin/Debug/net8.0/perimetroTriangulo.pdb
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.sourcelink.json
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.dll
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/refint/perimetroTriangulo.dll
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.pdb
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/perimetroTriangulo.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/perimetroTriangulo/obj/Debug/net8.0/ref/perimetroTriangulo.dll

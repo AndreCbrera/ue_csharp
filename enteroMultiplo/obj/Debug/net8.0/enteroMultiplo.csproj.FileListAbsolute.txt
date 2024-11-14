@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/enteroMultiplo/bin/Debug/net8.0/enteroMultiplo
+/Users/dacq/code/ue_csharp/enteroMultiplo/bin/Debug/net8.0/enteroMultiplo.deps.json
+/Users/dacq/code/ue_csharp/enteroMultiplo/bin/Debug/net8.0/enteroMultiplo.runtimeconfig.json
+/Users/dacq/code/ue_csharp/enteroMultiplo/bin/Debug/net8.0/enteroMultiplo.dll
+/Users/dacq/code/ue_csharp/enteroMultiplo/bin/Debug/net8.0/enteroMultiplo.pdb
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.sourcelink.json
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.dll
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/refint/enteroMultiplo.dll
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.pdb
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/enteroMultiplo.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/enteroMultiplo/obj/Debug/net8.0/ref/enteroMultiplo.dll

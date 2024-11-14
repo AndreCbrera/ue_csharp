@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/areaRectangulo/bin/Debug/net8.0/areaRectangulo
+/Users/dacq/code/ue_csharp/areaRectangulo/bin/Debug/net8.0/areaRectangulo.deps.json
+/Users/dacq/code/ue_csharp/areaRectangulo/bin/Debug/net8.0/areaRectangulo.runtimeconfig.json
+/Users/dacq/code/ue_csharp/areaRectangulo/bin/Debug/net8.0/areaRectangulo.dll
+/Users/dacq/code/ue_csharp/areaRectangulo/bin/Debug/net8.0/areaRectangulo.pdb
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.sourcelink.json
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.dll
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/refint/areaRectangulo.dll
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.pdb
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/areaRectangulo.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/areaRectangulo/obj/Debug/net8.0/ref/areaRectangulo.dll
