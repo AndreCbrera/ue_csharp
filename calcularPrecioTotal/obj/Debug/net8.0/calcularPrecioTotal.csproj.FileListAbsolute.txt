@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.sourcelink.json
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/bin/Debug/net8.0/calcularPrecioTotal
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/bin/Debug/net8.0/calcularPrecioTotal.deps.json
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/bin/Debug/net8.0/calcularPrecioTotal.runtimeconfig.json
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/bin/Debug/net8.0/calcularPrecioTotal.dll
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/bin/Debug/net8.0/calcularPrecioTotal.pdb
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.dll
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/refint/calcularPrecioTotal.dll
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.pdb
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/calcularPrecioTotal.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/calcularPrecioTotal/obj/Debug/net8.0/ref/calcularPrecioTotal.dll

@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.sourcelink.json
+/Users/dacq/code/ue_csharp/noEsMultiplo/bin/Debug/net8.0/noEsMultiplo
+/Users/dacq/code/ue_csharp/noEsMultiplo/bin/Debug/net8.0/noEsMultiplo.deps.json
+/Users/dacq/code/ue_csharp/noEsMultiplo/bin/Debug/net8.0/noEsMultiplo.runtimeconfig.json
+/Users/dacq/code/ue_csharp/noEsMultiplo/bin/Debug/net8.0/noEsMultiplo.dll
+/Users/dacq/code/ue_csharp/noEsMultiplo/bin/Debug/net8.0/noEsMultiplo.pdb
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.dll
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/refint/noEsMultiplo.dll
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.pdb
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/noEsMultiplo.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/noEsMultiplo/obj/Debug/net8.0/ref/noEsMultiplo.dll

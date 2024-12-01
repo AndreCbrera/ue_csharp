@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.sourcelink.json
+/Users/dacq/code/ue_csharp/notaMediaCondicional/bin/Debug/net8.0/notaMediaCondicional
+/Users/dacq/code/ue_csharp/notaMediaCondicional/bin/Debug/net8.0/notaMediaCondicional.deps.json
+/Users/dacq/code/ue_csharp/notaMediaCondicional/bin/Debug/net8.0/notaMediaCondicional.runtimeconfig.json
+/Users/dacq/code/ue_csharp/notaMediaCondicional/bin/Debug/net8.0/notaMediaCondicional.dll
+/Users/dacq/code/ue_csharp/notaMediaCondicional/bin/Debug/net8.0/notaMediaCondicional.pdb
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.dll
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/refint/notaMediaCondicional.dll
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.pdb
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/notaMediaCondicional.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/notaMediaCondicional/obj/Debug/net8.0/ref/notaMediaCondicional.dll
