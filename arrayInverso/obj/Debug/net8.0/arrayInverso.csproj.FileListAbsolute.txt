@@ -1,0 +1,15 @@
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.AssemblyInfoInputs.cache
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.AssemblyInfo.cs
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.csproj.CoreCompileInputs.cache
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.sourcelink.json
+/Users/dacq/code/ue_csharp/arrayInverso/bin/Debug/net8.0/arrayInverso
+/Users/dacq/code/ue_csharp/arrayInverso/bin/Debug/net8.0/arrayInverso.deps.json
+/Users/dacq/code/ue_csharp/arrayInverso/bin/Debug/net8.0/arrayInverso.runtimeconfig.json
+/Users/dacq/code/ue_csharp/arrayInverso/bin/Debug/net8.0/arrayInverso.dll
+/Users/dacq/code/ue_csharp/arrayInverso/bin/Debug/net8.0/arrayInverso.pdb
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.dll
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/refint/arrayInverso.dll
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.pdb
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/arrayInverso.genruntimeconfig.cache
+/Users/dacq/code/ue_csharp/arrayInverso/obj/Debug/net8.0/ref/arrayInverso.dll
